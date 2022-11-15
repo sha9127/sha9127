@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sha9127
-- 👀 I’m interested in Data Analytics , Machine Learning and Data Science
-- 🌱 I’m currently learning ML,DS
+- 👀 I’m interested in Backend Web Development
+- 🌱 I’m current working as Python Backend Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shrivastava.shashank20@gmail.com
 
