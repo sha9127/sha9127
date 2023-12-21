@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sha9127
-- 👀 I’m interested in Backend Web Development
-- 🌱 I’m current working as Python Backend Developer
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @sha9127 Shashank Shrivastava
+- 👀 I’m interested in Backend Web Development(Python, Django , Django Rest Framework(DRF))
+- 🌱 I’m currently working as an SDE (Python)
+- 💞️ I’m looking to collaborate on a backend web development Project.
 - 📫 How to reach me shrivastava.shashank20@gmail.com
 
 <!---
